@@ -1,0 +1,42 @@
+[
+ {
+  "slug": "buketi",
+  "name": "Buketi",
+  "count": 18
+ },
+ {
+  "slug": "mini-buketi",
+  "name": "Mini buketi",
+  "count": 4
+ },
+ {
+  "slug": "cvetni-aranzmani",
+  "name": "Cvetni aranžmani",
+  "count": 15
+ },
+ {
+  "slug": "bidermajeri",
+  "name": "Bidermajeri",
+  "count": 3
+ },
+ {
+  "slug": "vecna-ruza",
+  "name": "Večna ruža",
+  "count": 2
+ },
+ {
+  "slug": "poklon-set",
+  "name": "Poklon set",
+  "count": 23
+ },
+ {
+  "slug": "dodaci",
+  "name": "Dodaci",
+  "count": 2
+ },
+ {
+  "slug": "specijalne-ponude",
+  "name": "Specijalne ponude",
+  "count": 1
+ }
+]
