@@ -1,6 +1,6 @@
 # Cveta Cvetić – probna verzija sajta
 
-Statička kopija novog dizajna za pregled. Porudžbine i poruke ne rade na ovoj verziji.
+Statička kopija prvog dizajna (arhiva). Objavljivanje na GitHub Pages je isključeno 24.11.2026. Pravi sajt: https://cvetacvetic.rs/
 
 ## WordPress verzija (pravi sajt)
 
